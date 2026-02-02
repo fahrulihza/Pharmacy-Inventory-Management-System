@@ -1,4 +1,4 @@
-# Pharmacy Inventory Management System
+# Web Based Pharmacy Inventory Management System
 
 Web based system developed during internship.
 
