@@ -18,4 +18,7 @@ System for managing medicine stock, including incoming and outgoing items.
 ## Tools
 SQL, PHP, Android Studio
 
+## Result
+You can see the video result in this link https://drive.google.com/file/d/1XB3pMySQAOXgZwE-bWVY2l-dVhh9zfUa/view?usp=sharing
+
 > Source code is private due to company policy.
