@@ -1,6 +1,6 @@
 # Pharmacy Inventory Management System
 
-Web & Android-based system developed during internship.
+Web based system developed during internship.
 
 ## Description
 System for managing medicine stock, including incoming and outgoing items.
@@ -16,7 +16,7 @@ System for managing medicine stock, including incoming and outgoing items.
 - Generated inventory reports
 
 ## Tools
-SQL, PHP, Android Studio
+SQL, PHP
 
 ## Result
 You can see the video result in this link https://drive.google.com/file/d/1XB3pMySQAOXgZwE-bWVY2l-dVhh9zfUa/view?usp=sharing
